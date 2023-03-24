@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uQ9CDatoFs0VyHFEePhJzvL7bHX1i1ov5omLxN/1OAkqX7KHN3FgIJCSX0ADnBN/tQlbwYYkeoXfAgYKvpyvgQ==",
+  "dgSpecHash": "g2Mei1cJCTnjnxGidTUZz5GgHb/Z05KvqIpPZ1GGfe2O7bPgOhmCMeir/TT48kyCdVBOo2MFI2jzvHt4Srx4Bw==",
   "success": true,
   "projectFilePath": "C:\\Repos\\model-view-controller\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\varsha.fernandes\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\varsha.fernandes\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\varsha.fernandes\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\varsha.fernandes\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\varsha.fernandes\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\varsha.fernandes\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
