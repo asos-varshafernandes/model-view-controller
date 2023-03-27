@@ -630,3 +630,5 @@ C:\Repos\model-view-controller\MvcMovie\MvcMovie\obj\Debug\net6.0\refint\MvcMovi
 C:\Repos\model-view-controller\MvcMovie\MvcMovie\obj\Debug\net6.0\MvcMovie.pdb
 C:\Repos\model-view-controller\MvcMovie\MvcMovie\obj\Debug\net6.0\MvcMovie.genruntimeconfig.cache
 C:\Repos\model-view-controller\MvcMovie\MvcMovie\obj\Debug\net6.0\ref\MvcMovie.dll
+C:\Repos\model-view-controller\MvcMovie\MvcMovie\bin\Debug\net6.0\Dapper.dll
+C:\Repos\model-view-controller\MvcMovie\MvcMovie\bin\Debug\net6.0\Dapper.Contrib.dll
